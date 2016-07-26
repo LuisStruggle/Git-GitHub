@@ -1,0 +1,3 @@
+1、git reset --hard HEAD~1（撤销最后一次的提交，是彻底的）
+2、git push --force（将本次变更强行推送至服务器）
+3、github的README.md是一个项目简介的文件，使用的是Github Flavored Markdown语法，即Markdown语法上修改的
